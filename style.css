@@ -1,4 +1,4 @@
-/*-----------------------------------------------------------------------------------
+22/*-----------------------------------------------------------------------------------
 
     Template Name: Randerc - It Solutions & Services HTML Template
     Template URI: http://rockstheme.com
@@ -221,10 +221,10 @@ div#preloader {
     padding: 0.2em 0;
 }
 .area-padding{
-	padding: 110px 0px;
+	padding: 20px 0px;
 }
 .area-padding-2{
-    padding: 110px 0px 80px;
+    padding: 20px 0px 20px;
 }
 .section-headline {
     padding-bottom: 40px;
@@ -1583,7 +1583,7 @@ div#preloader {
 /*  14. Footer Area
 /*----------------------------------------*/
 .footer-area {
-    padding: 90px 0;
+    padding: 20px 0;
     background: #fdfcfc;
 }
 .footer-logo {
