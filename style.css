@@ -1451,6 +1451,7 @@ div#preloader {
     margin-right: 10px;
 }
 .single-blog {
+	padding-top:20px;
     position: relative;
     box-shadow: 0 5px 25px rgba(0, 0, 0, 0.1);
     margin-bottom: 30px;
